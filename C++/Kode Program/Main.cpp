@@ -1,7 +1,7 @@
-#include "Petshop.cpp" // Include file header Petshop.cpp
-#include <iostream>    // Library untuk fungsi input-output
+#include "Petshop.cpp"  // Include file header Petshop.cpp
+#include <iostream>     // Library untuk fungsi input-output
 
-using namespace std;   // Namespace untuk fungsi input-output
+using namespace std;    // Namespace untuk fungsi input-output
 
 int main() {
     Petshop shop[100];      // Array untuk menyimpan data produk
