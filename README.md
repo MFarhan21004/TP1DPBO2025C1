@@ -11,7 +11,7 @@ Atribut:
   Nama → Nama produk.
   Kategori → Jenis produk.
   Harga → Harga produk.
-  
+  Foto -> Foto Produk(Untuk PHP)
 Metode:
   Set_ID(), Set_Nama(), Set_Kategori(), Set_Harga() → Mengubah atribut produk.
   Get_ID(), Get_Nama(), Get_Kategori(), Get_Harga() → Mengambil data produk.
